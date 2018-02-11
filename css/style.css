@@ -1,0 +1,76 @@
+html,body{
+  background: url('../img/mountains.jpg') center center no-repeat;
+  height:100%;
+  background-size:cover;
+}
+
+
+
+#logo img{
+  margin:0 auto !important;
+  padding-top:20px;
+}
+
+
+#intro p{
+  color:white;
+  text-align:center;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size:1.8em;
+}
+
+
+#counter .countdown {
+    text-align:center;
+    color:white;
+    font-family: 'Amatic SC', cursive;
+    font-size:3em;
+    margin:-15px 0 0;
+}
+
+#icons .twitter:hover {
+    color:#6cadde;
+    bottom:5px;
+    display: block;
+    text-align:center
+}
+#icons .facebook:hover {
+    color:#3b5998;
+    bottom:5px;
+    display: block;
+    text-align:center
+}
+#icons .google:hover {
+    color:#ea4335;
+    bottom:5px;
+    display: block;
+    text-align:center
+}
+#icons .instagram:hover {
+    color:#517fa6;
+    bottom:5px;
+    display: block;
+    text-align:center
+}
+
+#signup {
+  text-align: center;
+}
+
+#signup .form-inline{
+  display: block;
+}
+
+#signup {
+    text-align: center;
+}
+#signup .form-inline {
+    display: block;
+}
+#signup .btn {
+    background-color: rgba(161,186,226,0.5);
+    color: white;
+}
+#signup .btn:hover {
+    background-color:rgba(37,165,82,1);
+}
